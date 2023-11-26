@@ -2,7 +2,12 @@
 {
     static void Main(string[] args)
     {
-
+        var calc = new Calculator();
+        Console.WriteLine(calc.Add(1));
+        Console.WriteLine(calc.Add(1, 2));
+        Console.WriteLine(calc.Add(1, 2, 3));
+        Console.WriteLine(calc.Add(1, 2, 3, 4));
+        Console.WriteLine(calc.Add([1, 2, 3, 4, 5]));
         //UsePoint();
     }
     static void UsePoint()
