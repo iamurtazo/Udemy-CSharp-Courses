@@ -1,0 +1,15 @@
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Fields\obj\Debug\net8.0\Fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Fields\obj\Debug\net8.0\Fields.AssemblyInfoInputs.cache
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Fields\obj\Debug\net8.0\Fields.AssemblyInfo.cs
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Fields\obj\Debug\net8.0\Fields.csproj.CoreCompileInputs.cache
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Fields\obj\Debug\net8.0\Fields.sourcelink.json
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Fields\bin\Debug\net8.0\Fields.exe
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Fields\bin\Debug\net8.0\Fields.deps.json
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Fields\bin\Debug\net8.0\Fields.runtimeconfig.json
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Fields\bin\Debug\net8.0\Fields.dll
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Fields\bin\Debug\net8.0\Fields.pdb
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Fields\obj\Debug\net8.0\Fields.dll
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Fields\obj\Debug\net8.0\refint\Fields.dll
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Fields\obj\Debug\net8.0\Fields.pdb
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Fields\obj\Debug\net8.0\Fields.genruntimeconfig.cache
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Fields\obj\Debug\net8.0\ref\Fields.dll

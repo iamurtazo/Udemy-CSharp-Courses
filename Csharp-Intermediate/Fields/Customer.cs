@@ -12,7 +12,7 @@ public class Customer
     {
         this.Name = name;
     }
-    public void Promote
+    public void Promote()
     {
         Orders = new List<Order>();
     }
