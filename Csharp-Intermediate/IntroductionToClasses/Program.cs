@@ -30,8 +30,8 @@
             pnt.Move(new Point(34, 45));
             Console.WriteLine(pnt.X + " " + pnt.Y);
 
-            pnt.Move(null);
-            Console.WriteLine(pnt.X + " " + pnt.Y);
+            //pnt.Move(null)
+            //Console.WriteLine(pnt.X + " " + pnt.Y);
         }
         catch (Exception)
         {
