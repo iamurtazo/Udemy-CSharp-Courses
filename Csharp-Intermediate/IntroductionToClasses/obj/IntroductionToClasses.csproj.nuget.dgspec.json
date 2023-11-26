@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iammu\\UdemyCsharpIntermediate\\CSharp-Intemediate\\IntroductionToClasses\\IntroductionToClasses.csproj": {}
+    "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\IntroductionToClasses\\IntroductionToClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iammu\\UdemyCsharpIntermediate\\CSharp-Intemediate\\IntroductionToClasses\\IntroductionToClasses.csproj": {
+    "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\IntroductionToClasses\\IntroductionToClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iammu\\UdemyCsharpIntermediate\\CSharp-Intemediate\\IntroductionToClasses\\IntroductionToClasses.csproj",
+        "projectUniqueName": "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\IntroductionToClasses\\IntroductionToClasses.csproj",
         "projectName": "IntroductionToClasses",
-        "projectPath": "C:\\Users\\iammu\\UdemyCsharpIntermediate\\CSharp-Intemediate\\IntroductionToClasses\\IntroductionToClasses.csproj",
+        "projectPath": "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\IntroductionToClasses\\IntroductionToClasses.csproj",
         "packagesPath": "C:\\Users\\iammu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iammu\\UdemyCsharpIntermediate\\CSharp-Intemediate\\IntroductionToClasses\\obj\\",
+        "outputPath": "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\IntroductionToClasses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iammu\\AppData\\Roaming\\NuGet\\NuGet.Config",
