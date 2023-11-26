@@ -2,13 +2,22 @@
 {
     static void Main(string[] args)
     {
+        int num;
+        bool isCon = int.TryParse("12", out num);
+        if(isCon) Console.WriteLine("success: " + num);
+        else Console.WriteLine("failed");
+        //UsePoint();
+        //UsePrams();
+    }
+    static void UseParams()
+    {
         var calc = new Calculator();
         Console.WriteLine(calc.Add(1));
         Console.WriteLine(calc.Add(1, 2));
         Console.WriteLine(calc.Add(1, 2, 3));
         Console.WriteLine(calc.Add(1, 2, 3, 4));
         Console.WriteLine(calc.Add([1, 2, 3, 4, 5]));
-        //UsePoint();
+
     }
     static void UsePoint()
     {
