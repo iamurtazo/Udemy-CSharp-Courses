@@ -1,14 +1,18 @@
 public class Person
 {
     private string _name;
-    private int age;
-    private DateTime _birthDdate;
-
-    public DateTime Birthdate
+    public DateTime Birthdate {get; set;}
+    public int Age
     {
-        get {return _birthDdate;}
-        set {_birthDdate = value;}
+        get
+        {
+            var timeSpan = DateTime.Today - Birthdate;
+            var years = timeSpan.Days/365;
+            return years;
+        }
+        
     }
+
 
     public void SetName(string name)
     {

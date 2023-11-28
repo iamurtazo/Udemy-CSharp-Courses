@@ -1,11 +1,36 @@
-﻿class Program
+﻿public class HttpCookie
+{
+    private readonly Dictionary<string, string> _dictionary = new Dictionary<string, string>();
+
+    public string this[string key]
+    {
+        get
+        {
+            return _dictionary[key];
+        }
+        set
+        {
+            _dictionary[key] = value;
+        }
+
+    }
+}
+class Program
 {
     static void Main(string[] args)
     {
-        var pr = new Person();
-        pr.Birthdate = new DateTime(1999, 12, 19);
-        Console.WriteLine(pr.Birthdate);
+        
+        var httpCookie = new HttpCookie();
+        httpCookie["name"] = "Mosh";
+        Console.WriteLine(httpCookie["name"]);
+        
 
+    }
+    static void UseProperty()
+    {
+        var pr = new Person();
+        pr.Birthdate = new DateTime(1999, 11, 19);
+        Console.WriteLine(pr.Age);
     }
     static void UseCase()
     {
