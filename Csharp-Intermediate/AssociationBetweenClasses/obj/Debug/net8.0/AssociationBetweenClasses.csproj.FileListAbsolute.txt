@@ -1,0 +1,15 @@
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\AssociationBetweenClasses\obj\Debug\net8.0\AssociationBetweenClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\AssociationBetweenClasses\obj\Debug\net8.0\AssociationBetweenClasses.AssemblyInfoInputs.cache
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\AssociationBetweenClasses\obj\Debug\net8.0\AssociationBetweenClasses.AssemblyInfo.cs
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\AssociationBetweenClasses\obj\Debug\net8.0\AssociationBetweenClasses.csproj.CoreCompileInputs.cache
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\AssociationBetweenClasses\obj\Debug\net8.0\AssociationBetweenClasses.sourcelink.json
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\AssociationBetweenClasses\bin\Debug\net8.0\AssociationBetweenClasses.exe
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\AssociationBetweenClasses\bin\Debug\net8.0\AssociationBetweenClasses.deps.json
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\AssociationBetweenClasses\bin\Debug\net8.0\AssociationBetweenClasses.runtimeconfig.json
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\AssociationBetweenClasses\bin\Debug\net8.0\AssociationBetweenClasses.dll
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\AssociationBetweenClasses\bin\Debug\net8.0\AssociationBetweenClasses.pdb
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\AssociationBetweenClasses\obj\Debug\net8.0\AssociationBetweenClasses.dll
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\AssociationBetweenClasses\obj\Debug\net8.0\refint\AssociationBetweenClasses.dll
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\AssociationBetweenClasses\obj\Debug\net8.0\AssociationBetweenClasses.pdb
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\AssociationBetweenClasses\obj\Debug\net8.0\AssociationBetweenClasses.genruntimeconfig.cache
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\AssociationBetweenClasses\obj\Debug\net8.0\ref\AssociationBetweenClasses.dll
