@@ -3,6 +3,13 @@ using System.Xml.Serialization;
 
 public class DBMigrator
 {
+    private int myVar;
+    public int MyProperty
+    {
+        get { return myVar; }
+        set { myVar = value; }
+    }
+    
     private readonly Logger _logger;
 
     public DBMigrator(Logger logger)
@@ -13,4 +20,5 @@ public class DBMigrator
     {
         _logger.Log("Is being migrated");
     }
+
 }

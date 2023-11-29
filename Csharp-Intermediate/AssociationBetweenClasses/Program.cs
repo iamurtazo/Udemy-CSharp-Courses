@@ -10,6 +10,8 @@
 
         dbMigrator.Migrate();
         installer.Install();
+
+        
     }
     static void InheritanceExamples()
     {
