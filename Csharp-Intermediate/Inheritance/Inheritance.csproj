@@ -6,5 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\Amazon\\Amazon.csproj"/>
+  </ItemGroup>
+
 
 </Project>

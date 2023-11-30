@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Amazon/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Amazon.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Amazon.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Amazon/1.0.0": {
+      "type": "project",
+      "path": "../Amazon/Amazon.csproj",
+      "msbuildProject": "../Amazon/Amazon.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Amazon >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\iammu\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\Amazon\\Amazon.csproj": {
+              "projectPath": "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\Amazon\\Amazon.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

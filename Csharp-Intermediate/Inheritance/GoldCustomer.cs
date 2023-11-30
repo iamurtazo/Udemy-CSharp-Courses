@@ -1,4 +1,4 @@
-public class GoldCustomer : Customer
+/* public class GoldCustomer : Customer
 {
     // protected & private example
     // it is better to use private unless you have valid reason to use it
@@ -8,3 +8,4 @@ public class GoldCustomer : Customer
     {
     }
 }
+ */
