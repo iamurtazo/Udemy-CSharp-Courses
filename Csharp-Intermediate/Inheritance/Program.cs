@@ -17,24 +17,4 @@ class Program
         customer.Promote();
     } */
 }
-public class Vehicle 
-{
-    private string _registrationNumber;
-    /* public Vehicle()
-    {
-    } */
-    public Vehicle (string registrationNumber)
-    {
-        this._registrationNumber = registrationNumber;
-        Console.WriteLine("Vehicle is initialized {0}", registrationNumber); 
-    }
-}
-
-public class Car : Vehicle
-{
-    public Car(string registrationNumber) : base(registrationNumber)
-    {
-        Console.WriteLine("Car is initialized {0}", registrationNumber);
-    }
-}
     
