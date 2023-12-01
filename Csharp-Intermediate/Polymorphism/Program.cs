@@ -2,24 +2,21 @@
 {
     static void Main(string[] args)
     {
+        var dog = new Dog();
+        dog.MakeSound();
+        var cat = new Cat();
+        cat.MakeSound();
 
-    }
-}
-public class Canvas
-{
-    public void DrawShapes(List<Shape> shapes)
-    {
-        foreach(var shape in shapes)
+
+        var shapes = new List<Shape>
         {
-            switch(shape.Type)
-            {
-                case ShapeType.Circle: 
-                    Console.WriteLine("Draw a circle");
-                    break;
-                case ShapeType.Rectangle:
-                    Console.WriteLine("Draw a rectangle");
-                    break;
-            }
-        }
+            new Circle(),
+            new Rectangle(),
+            new Triangle()
+        };
+        var canvas = new Canvas();
+        //canvas.DrawShapes(shapes);
+
+        //var animal = new Animal();
     }
 }
