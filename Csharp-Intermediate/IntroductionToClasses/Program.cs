@@ -36,6 +36,7 @@
         catch (Exception)
         {
             Console.WriteLine("Error occured");
+            
         }
     }
 }

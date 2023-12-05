@@ -1,0 +1,12 @@
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Amazon\bin\Debug\net8.0\Amazon.deps.json
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Amazon\bin\Debug\net8.0\Amazon.dll
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Amazon\bin\Debug\net8.0\Amazon.pdb
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Amazon\obj\Debug\net8.0\Amazon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Amazon\obj\Debug\net8.0\Amazon.AssemblyInfoInputs.cache
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Amazon\obj\Debug\net8.0\Amazon.AssemblyInfo.cs
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Amazon\obj\Debug\net8.0\Amazon.csproj.CoreCompileInputs.cache
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Amazon\obj\Debug\net8.0\Amazon.sourcelink.json
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Amazon\obj\Debug\net8.0\Amazon.dll
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Amazon\obj\Debug\net8.0\refint\Amazon.dll
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Amazon\obj\Debug\net8.0\Amazon.pdb
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Amazon\obj\Debug\net8.0\ref\Amazon.dll

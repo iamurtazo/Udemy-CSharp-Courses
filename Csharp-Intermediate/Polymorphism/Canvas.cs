@@ -1,4 +1,4 @@
-public class Canvas
+public class Canvas //WorkflowEngine
 {
     public void DrawShapes(List<Shape> shapes)
     {
