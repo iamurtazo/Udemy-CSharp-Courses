@@ -1,0 +1,5 @@
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface\obj\Debug\net8.0\Interface.sourcelink.json

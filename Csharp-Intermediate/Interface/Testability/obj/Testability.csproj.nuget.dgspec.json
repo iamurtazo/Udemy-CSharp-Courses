@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\Interface\\Testability.UnitTests\\Testability.UnitTests.csproj": {}
+    "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\Interface\\Testability\\Testability.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\Interface\\Testability.UnitTests\\Testability.UnitTests.csproj": {
+    "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\Interface\\Testability\\Testability.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\Interface\\Testability.UnitTests\\Testability.UnitTests.csproj",
-        "projectName": "Testability.UnitTests",
-        "projectPath": "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\Interface\\Testability.UnitTests\\Testability.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\Interface\\Testability\\Testability.csproj",
+        "projectName": "Testability",
+        "projectPath": "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\Interface\\Testability\\Testability.csproj",
         "packagesPath": "C:\\Users\\iammu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\Interface\\Testability.UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\iammu\\UdemyCsharpIntermediate\\Csharp-Intermediate\\Interface\\Testability\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iammu\\AppData\\Roaming\\NuGet\\NuGet.Config",

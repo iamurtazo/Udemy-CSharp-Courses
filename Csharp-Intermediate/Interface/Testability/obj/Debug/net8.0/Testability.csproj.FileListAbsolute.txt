@@ -1,0 +1,6 @@
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface\Testability\obj\Debug\net8.0\Testability.csproj.AssemblyReference.cache
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface\Testability\obj\Debug\net8.0\Testability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface\Testability\obj\Debug\net8.0\Testability.AssemblyInfoInputs.cache
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface\Testability\obj\Debug\net8.0\Testability.AssemblyInfo.cs
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface\Testability\obj\Debug\net8.0\Testability.csproj.CoreCompileInputs.cache
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface\Testability\obj\Debug\net8.0\Testability.sourcelink.json

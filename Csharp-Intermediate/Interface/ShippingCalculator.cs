@@ -1,7 +1,3 @@
-public interface IShippingCalculator
-{
-    float CalculateShipping(Order order);
-}
 public class ShippingCalculator : IShippingCalculator
 {
     public float CalculateShipping(Order order)
