@@ -1,0 +1,15 @@
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\bin\Debug\net8.0\Interface2.exe
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\bin\Debug\net8.0\Interface2.deps.json
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\bin\Debug\net8.0\Interface2.runtimeconfig.json
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\bin\Debug\net8.0\Interface2.dll
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\bin\Debug\net8.0\Interface2.pdb
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\Interface2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\Interface2.AssemblyInfoInputs.cache
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\Interface2.AssemblyInfo.cs
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\Interface2.csproj.CoreCompileInputs.cache
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\Interface2.sourcelink.json
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\Interface2.dll
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\refint\Interface2.dll
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\Interface2.pdb
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\Interface2.genruntimeconfig.cache
+C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\ref\Interface2.dll
