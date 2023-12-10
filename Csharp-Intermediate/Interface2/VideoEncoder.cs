@@ -6,15 +6,12 @@ public class VideoEncoder
     {
         _notificationChannnels = new List<INotificationChannel>();
     }
-    public void Encode()
+    public void Encode(INotificationChannel channel)
     {
-        foreach(var channel in _notificationChannnels)
-        {
-            channel.Send(new Message());
-        }
+            channel.Send();    
     }
-    public void RegisterNotificationChannel(INotificationChannel channel)
+    /* public void RegisterNotificationChannel(INotificationChannel channel)
     {
         _notificationChannnels.Add(channel);
-    }
+    } */
 }

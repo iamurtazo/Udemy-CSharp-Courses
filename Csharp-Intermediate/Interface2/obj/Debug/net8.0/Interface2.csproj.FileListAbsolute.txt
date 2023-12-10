@@ -7,7 +7,6 @@ C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\
 C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\Interface2.AssemblyInfoInputs.cache
 C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\Interface2.AssemblyInfo.cs
 C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\Interface2.csproj.CoreCompileInputs.cache
-C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\Interface2.sourcelink.json
 C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\Interface2.dll
 C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\refint\Interface2.dll
 C:\Users\iammu\UdemyCsharpIntermediate\Csharp-Intermediate\Interface2\obj\Debug\net8.0\Interface2.pdb
