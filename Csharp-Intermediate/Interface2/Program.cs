@@ -7,14 +7,8 @@ class Program
     static void Main(string[] args)
     {
         var encoder = new VideoEncoder();
-        encoder.Encode(new Video());
+        encoder.RegisterNotificationChannel(new SmsNotificationChannel());
+        encoder.Encode();
         
-    }
-}
-public class SmsNotificationChannel : INotificationChannel
-{
-    public void Send(Message message)
-    {
-        Console.WriteLine("Sending sms...");
     }
 }
