@@ -13,7 +13,7 @@ partial class Program
     static void Main(string[] args)
     {
         // Generics
-        var digits = new GenericList<string>();
+        /* var digits = new GenericList<string>();
         digits.Add("C# Advanced");
         digits.Add(new string("Alabama"));
 
@@ -25,7 +25,18 @@ partial class Program
         //Console.WriteLine(genericDictionary.GetHashCode());
 
         var utilities = new Utilities<int>();
-        Console.WriteLine("Utilities: " + utilities.Max(506, 067));
+        Console.WriteLine("Utilities: " + utilities.Max(506, 067)); */
+
+        var number = new Nullable<int>();
+        var anotherNum = new Nullable<int>(5);
+
+        Console.WriteLine($"Has Value: {number.HasValue}");
+        Console.WriteLine($"Value: {number.GetValueOrDefault()}");
+
+        Console.WriteLine($"Has Value: {anotherNum.HasValue}");
+        Console.WriteLine($"Value: {anotherNum.GetValueOrDefault()}");
+
+
 
 
     }
