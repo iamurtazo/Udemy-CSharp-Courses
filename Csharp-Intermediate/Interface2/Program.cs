@@ -3,7 +3,7 @@ using System.Net.Mail;
 using System.Reflection.Metadata;
 using System.Text;
 
-class Program
+class Program 
 {
     static void Main(string[] args)
     {

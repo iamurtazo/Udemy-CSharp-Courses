@@ -3,7 +3,19 @@
     static void Main(string[] args)
     {
         var processor = new PhotoProcessor();
-        processor.Process("photo.jpg");
+
+        var filters = new PhotoFilters();
+
+        PhotoProcessor.PhotoFilterHandler filterHandler = filters.ApplyBrightness;
+
+        filterHandler += filters.ApplyBrightness;
+        filterHandler += RemoveRedEyeFilter;
+        processor.Process("photo.jpg", filterHandler);
+
         
+    }
+    static void RemoveRedEyeFilter(Photo photo)
+    {
+        Console.WriteLine("Apply RemoveRedEye");
     }
 }

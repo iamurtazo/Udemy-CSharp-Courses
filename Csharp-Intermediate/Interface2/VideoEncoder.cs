@@ -10,8 +10,5 @@ public class VideoEncoder
     {
             channel.Send();    
     }
-    /* public void RegisterNotificationChannel(INotificationChannel channel)
-    {
-        _notificationChannnels.Add(channel);
-    } */
+
 }
