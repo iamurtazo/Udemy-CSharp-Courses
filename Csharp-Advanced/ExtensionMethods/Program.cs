@@ -12,6 +12,9 @@
         var text = "Advanced";
         Console.WriteLine("After doubling: " + text.DoubleIt());
 
+        IEnumerable<int> numbers = new List<int>(){5, 78, 9};
+        Console.WriteLine(numbers.Max());
+        
     }   
     
 }
