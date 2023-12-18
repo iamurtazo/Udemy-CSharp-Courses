@@ -2,12 +2,20 @@
 {
     static void Main(string[] args)
     {
+        var books = new BookRepository().GetBooks();
+        var book = books.SingleOrDefault(b => b.Title == "TTMIK 45");
+
+        Console.WriteLine("BOOK: " + book.Title.ToUpper());
+
+        
+    }
+    static void useLINQ()
+    {
         //LINQ
         //Language Integrated Query
 
         var books = new BookRepository().GetBooks();
 
-        
         //LINQ Extension Methods
         Console.WriteLine("LINQ Extension Methods method of querying");
         var cheapBooks = books
@@ -29,18 +37,10 @@
         Console.WriteLine("LINQ Query Operators method of querying");
         foreach(var book in cheaperBooks)
             Console.WriteLine(string.Join(", ", book.Title, book.Price));
-            
-
-        
-
 
         // Console.WriteLine("===========");
         // var kitoblar = books.OrderBy(b => b.Title);
         // foreach(var kitob in cheapBooks)
         //     Console.WriteLine(string.Join(", ", kitob.Title));
-
-        
-            
-
     }
 }
