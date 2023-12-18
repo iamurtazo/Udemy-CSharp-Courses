@@ -1,6 +1,5 @@
 ﻿using System.Runtime.InteropServices;
 using System.Security.Cryptography;
-
 class Program
 {
     public delegate void ConsoleLogger(string msg);
@@ -13,6 +12,16 @@ class Program
 
         //string matn = "murtazo toshniyozov this is going to be a very long .... in your life";
         //Shortener(matn, 5);
+
+        var video = new Video(){ Title = "Video 1" };
+        var videoEncoder = new VideoEncoder();
+        var mailService = new MailService();
+        var messageService = new MessageService();
+
+
+        videoEncoder.VideoEncoded += mailService.OnVideoEncoded;;
+        videoEncoder.VideoEncoded += messageService.OnVideoEncoded;
+        videoEncoder.Encode(video);
 
     }
     public static void Shortener(string text, int number)
